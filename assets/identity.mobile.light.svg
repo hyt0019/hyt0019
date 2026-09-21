@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="340" viewBox="0 0 600 340" role="img" aria-labelledby="title desc">
+<title id="title">hyt0019 — 让工具实用，让复杂直观。</title><desc id="desc">极简个人字标。实用工具、业务系统与可视化。</desc>
+<rect width="600" height="340" fill="#ffffff"/>
+<text x="2" y="32" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="18" letter-spacing="1.2" fill="#647480">SOFTWARE / SYSTEMS / VISUALIZATION</text>
+<path d="M0 58H600M0 327H600" stroke="#c7d3d9"/>
+<path d="M0 58H60" stroke="#16786e" stroke-width="3"/>
+<text x="-5" y="200" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="116" font-weight="650" letter-spacing="-6" fill="#16232d">hyt0019<tspan fill="#16786e">.</tspan></text>
+<text x="2" y="254" font-family="'Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="27" letter-spacing="2" fill="#647480">让工具实用，让复杂直观。</text>
+<text x="2" y="302" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="17" letter-spacing="1.6" fill="#647480">PYTHON / TYPESCRIPT</text>
+<path d="M572 289h28m-14 -14v28" stroke="#16786e" stroke-width="1.5"/>
+</svg>
