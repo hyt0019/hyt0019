@@ -5,8 +5,7 @@
   <img src="./assets/identity.light.svg" alt="hyt0019 — 让工具实用，让复杂直观。" width="1200">
 </picture>
 
-我用代码解决实际问题，也用可视化让信息更容易理解。项目涉及实用工具、自动化与企业应用，关注功能、体验，以及长期维护。
-
+用代码解决实际问题，可视化让信息更容易理解。
 <p><sub>Python / TypeScript &nbsp; · &nbsp; 工具开发 / 三维可视化 / 业务系统</sub></p>
 
 <br>
