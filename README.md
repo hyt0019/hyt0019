@@ -1,80 +1,87 @@
-<picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./assets/identity.mobile.dark.svg">
-  <source media="(max-width: 600px)" srcset="./assets/identity.mobile.light.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/identity.dark.svg">
-  <img src="./assets/identity.light.svg" alt="hyt0019 — 让工具实用，让复杂直观。" width="1200">
-</picture>
-
-用代码解决实际问题，可视化让信息更容易理解。
-<p><sub>Python / TypeScript &nbsp; · &nbsp; 工具开发 / 三维可视化 / 业务系统</sub></p>
-
-<br>
-
-## 代码的另一种样子
-
-<p><sub>CODE CITY &nbsp; / &nbsp; SIX PROJECTS, ONE SKYLINE</sub></p>
-
-每个仓库是一片城区，每个文件是一栋建筑。六个项目，在这里组成一座城市。
-
 <a href="https://hyt0019.github.io/code-city/">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://hyt0019.github.io/code-city/assets/profile.dark.svg">
-    <img src="https://hyt0019.github.io/code-city/assets/profile.light.svg" alt="六个项目组成的代码城市，点击进入交互式 3D 页面" width="1200">
+    <img src="https://hyt0019.github.io/code-city/assets/profile.light.svg" alt="hyt0019 的代码城市：每个仓库是一片城区，每个文件是一栋建筑。" width="100%">
   </picture>
 </a>
 
-<p align="right"><a href="https://hyt0019.github.io/code-city/">进入城市 →</a></p>
+<br>
+<br>
+
+平时主要写 Python 和 TypeScript，做桌面工具、三维可视化和业务系统。上面这座城市由我的项目生成：每个仓库是一片城区，每个文件是一栋建筑，楼高对应代码行数，每周自动重建。<a href="https://hyt0019.github.io/code-city/">在浏览器里转动它 →</a>
 
 <br>
 
-## 公开作品
-
-<p><sub>SELECTED PROJECTS &nbsp; / &nbsp; 01—04</sub></p>
-
-### 01 &nbsp; [Code City](https://github.com/hyt0019/code-city)
-
-把代码仓库转化为城市横幅与交互式 3D 场景，让项目规模与结构变得可见。支持多仓库展示、主题切换和自动更新。
-
-<sub>TypeScript / React / Three.js &nbsp; · &nbsp; 代码可视化</sub>
-
-### 02 &nbsp; [Container Load Planner](https://github.com/hyt0019/loader)
-
-面向真实装载约束的三维装箱规划工具。将货物清单转化为可查看、可复核的装载方案，支持交互式预览与导入导出。
-
-<sub>Python / Streamlit / Plotly &nbsp; · &nbsp; 优化与规划</sub>
-
-### 03 &nbsp; [ReplayFlashFix](https://github.com/hyt0019/ReplayFlashFix)
-
-检测并清除游戏录像中意外混入的桌面闪帧。提供 Windows 图形界面与批量处理，视频分析和修复均在本地完成。
-
-<sub>Python / FFmpeg &nbsp; · &nbsp; 视频处理</sub>
-
-### 04 &nbsp; [TJU Course Watcher](https://github.com/hyt0019/TJU-auto-course-selector)
-
-基于 Python 标准库的选课辅助工具。支持满员重试、成功停止和登录失效提示，减少重复操作。
-
-<sub>Python &nbsp; · &nbsp; 自动化工具</sub>
+### 精选项目
 
 <br>
 
-## 更多实践
+<a href="https://github.com/hyt0019/saywell">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://hyt0019.github.io/code-city/assets/repos/saywell.dark.svg">
+    <img src="https://hyt0019.github.io/code-city/assets/repos/saywell.light.svg" alt="好好说 Saywell：按住说话，松开就是一段干净的文字。" width="100%">
+  </picture>
+</a>
 
-<p><sub>PRIVATE PROJECTS &nbsp; / &nbsp; 05—06</sub></p>
-
-### 05 &nbsp; 双语企业展示网站
-
-面向企业介绍与产品展示的中英双语网站。支持语言切换、产品分类与结构化内容维护，将内容与页面代码分离，便于日常更新。
-
-<sub>Astro / Docker &nbsp; · &nbsp; 私有项目</sub>
-
-### 06 &nbsp; 外贸业务协同系统
-
-串联采购、分批发货、报关与开票流程。将分散的表格和人工核对整合为可追溯的业务流程，支持数据导入导出、权限管理与操作审计，提供 Web 和桌面端。
-
-<sub>React / TypeScript / PostgreSQL / Tauri &nbsp; · &nbsp; 私有项目</sub>
+**[好好说 Saywell](https://github.com/hyt0019/saywell)** &nbsp;·&nbsp; [官网](https://saywell.hyt0019.com) &nbsp;·&nbsp; [下载](https://github.com/hyt0019/saywell/releases/latest)<br>
+<sub>Windows 语音输入 &nbsp;/&nbsp; Python · PySide6 · sherpa-onnx · DeepSeek</sub>
 
 <br>
 
----
+<a href="https://github.com/hyt0019/loader">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://hyt0019.github.io/code-city/assets/repos/loader.dark.svg">
+    <img src="https://hyt0019.github.io/code-city/assets/repos/loader.light.svg" alt="Container Load Planner：面向真实装柜约束的三维装箱系统。" width="100%">
+  </picture>
+</a>
 
-<p><sub>hyt0019 &nbsp; / &nbsp; 从实际需求出发，持续打磨工具。</sub></p>
+**[Container Load Planner](https://github.com/hyt0019/loader)** &nbsp;·&nbsp; [在线工作台](https://loader-hyt.streamlit.app/)<br>
+<sub>三维装箱优化 &nbsp;/&nbsp; Python · Streamlit · Plotly &nbsp;/&nbsp; 标准测试集空间利用率 92%–95%</sub>
+
+<br>
+
+<a href="https://github.com/hyt0019/reed-relay">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://hyt0019.github.io/code-city/assets/repos/reed-relay.dark.svg">
+    <img src="https://hyt0019.github.io/code-city/assets/repos/reed-relay.light.svg" alt="ReedRelay：把音频转成可编辑曲谱，再在游戏中自动演奏。" width="100%">
+  </picture>
+</a>
+
+**[ReedRelay · 听谱与风箱](https://github.com/hyt0019/reed-relay)**<br>
+<sub>音频转谱与自动演奏 &nbsp;/&nbsp; Python · PySide6 / QML · ONNX Runtime · MIDI</sub>
+
+<br>
+
+<a href="https://github.com/hyt0019/code-city">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://hyt0019.github.io/code-city/assets/repos/code-city.dark.svg">
+    <img src="https://hyt0019.github.io/code-city/assets/repos/code-city.light.svg" alt="Code City：把代码仓库变成一座城市。" width="100%">
+  </picture>
+</a>
+
+**[Code City](https://github.com/hyt0019/code-city)** &nbsp;·&nbsp; [在线浏览](https://hyt0019.github.io/code-city/)<br>
+<sub>代码可视化 &nbsp;/&nbsp; TypeScript · React · Three.js</sub>
+
+<br>
+
+### 私有项目
+
+私有仓库在城市中显示为灰色城区，只公开建筑轮廓，不公开代码和文件名。
+
+**外贸业务协同系统** &nbsp;<sub>React · TypeScript · PostgreSQL · Tauri</sub><br>
+串联采购、分批发货、报关与开票，把分散的表格和人工核对整合成可追溯的流程，提供 Web 与桌面端。
+
+**双语企业展示网站** &nbsp;<sub>Astro · Docker</sub><br>
+中英双语的企业与产品展示站，内容与页面代码分离，便于日常维护。
+
+<br>
+
+### 小工具
+
+[ReplayFlashFix](https://github.com/hyt0019/ReplayFlashFix) &nbsp;<sub>清除 NVIDIA 即时重放录像中的桌面闪帧</sub><br>
+[TJU Course Watcher](https://github.com/hyt0019/TJU-auto-course-selector) &nbsp;<sub>天津大学选课辅助，满员自动重试</sub>
+
+<br>
+<br>
+
+<sub>hyt0019 &nbsp;·&nbsp; 城市由 <a href="https://github.com/hyt0019/code-city">Code City</a> 每周一自动生成</sub>
